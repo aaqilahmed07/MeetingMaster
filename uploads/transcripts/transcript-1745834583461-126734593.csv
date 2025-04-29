@@ -1,0 +1,34 @@
+timestamp,speaker,text
+00:01,PM,"Alright folks, we’ve got 45 minutes to lock the priorities for sprint 19."
+00:15,Engineer_1,Login flow is still breaking intermittently on mobile.
+00:28,QA,"Yeah, it passed 4/5 tests this morning, but the last one failed due to timeout."
+00:41,PM,Noted. Should we mark it as a P1 or P2 for now?
+00:53,Engineer_2,"If it's just timeout, might be a P2. Not critical."
+01:05,Designer,Still waiting on final copy for the onboarding screens.
+01:18,Product Lead,"Onboarding redesign isn't on the roadmap this sprint, is it?"
+01:30,PM,"It’s not officially in, but marketing asked for it again yesterday."
+01:43,Marketing,Yes — launch was supposed to be next week but they pushed. We could still make it.
+01:56,Engineer_1,"If we’re doing onboarding, we need specs locked today."
+02:10,PM,Let’s take that offline. Back to dev priorities.
+02:22,Engineer_2,Still unclear who’s owning the analytics migration.
+02:35,Data,Was under the impression Product was leading that.
+02:48,Product Lead,"No, we passed that to Data last sprint."
+03:00,PM,Okay… let’s add a Jira ticket to clarify ownership.
+03:13,QA,We’re also overdue on the test coverage report.
+03:25,Engineer_1,I thought that was auto-generated now?
+03:38,QA,It is — but the config was changed. It’s empty.
+03:50,PM,Noted. Let’s make sure it’s fixed before Friday’s check-in.
+04:03,Engineer_2,Can we remove the dashboard revamp from this sprint?
+04:16,Product Lead,Not unless we move feature flag testing to next sprint.
+04:30,Engineer_1,But that’s already halfway done.
+04:42,PM,We’re spinning now. I’ll review priorities post-call.
+04:55,Designer,Wait — who’s owning final QA signoff for this sprint?
+05:08,QA,"Technically Product, but we need logs from Engineering."
+05:21,Engineer_2,I sent them. Check the shared drive.
+05:34,QA,There’s nothing in there after last Thursday.
+05:46,Engineer_2,Weird. I definitely uploaded.
+05:59,PM,Let’s close here. I’ll summarize in Slack.
+06:11,Marketing,Please include deadlines this time.
+06:24,Product Lead,And action owners — lots of stuff fell through last sprint.
+06:37,PM,"Will do. Thanks, everyone."
+06:50,Engineer_1,Logging off. Please tag me if anything comes up.
